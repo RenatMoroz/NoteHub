@@ -5,7 +5,7 @@ It provides a clean and intuitive interface to create, view, edit, and delete no
 With keyword search and detailed views, NoteHub helps users stay productive and maintain clarity in their daily tasks.
 
 ## 🧰 Tech Stack
-TypeScript | React | Next.js
+TypeScript | React | Next.js | HTML5 | CSS3
 
 ## 💻 Features / My Contribution
 - Developed full frontend and backend of the application using React and Next.js
